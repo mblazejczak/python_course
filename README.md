@@ -1,2 +1,2 @@
 # python_course
-Python course with book
+Python course with book titled Python for everyone
