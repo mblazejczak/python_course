@@ -1,2 +1,4 @@
 fetching one more time:
 1. git fetch
+2. works differently:
+   git pull is better choose
